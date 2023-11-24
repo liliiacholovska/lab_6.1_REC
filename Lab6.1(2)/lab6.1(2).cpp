@@ -42,7 +42,7 @@ void processArray(int arr[], int& count, int& sum) {
 int main() {
     srand(time(0));
 
-    int myArray[25];
+    int myArray[21];
     int count, sum;
 
     fillArray(myArray);
